@@ -36,5 +36,6 @@ Shell/Vagrant scripts to provision a VM in a development environment for Katello
   cd /katello  
   sudo scl enable ruby193 "rails s"  
 1. On your host visit: http://katdev.example.com:3000/katello
+1. Proceed with development on your host and see the changes reflected in your VM
 
 
